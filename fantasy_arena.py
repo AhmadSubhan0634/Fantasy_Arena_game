@@ -1,5 +1,5 @@
 
-# Fantasy Arena: A Modular Battle Game -- FULL GUI VERSION
+# Fantasy Arena: A Modular Battle Game
 
 import os
 import sys
